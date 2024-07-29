@@ -89,6 +89,7 @@ body{
 #content{
     padding-top: 1px;
     padding-bottom: 50px;
+
 }
 
 /*============= INFO-BOX =============*/
@@ -102,6 +103,7 @@ a.info-box{
     margin          : auto;
     margin-top      : 12px;
     padding         : 12px;
+    
 }
 
 .info-box img{
@@ -124,7 +126,7 @@ a.info-box{
     color: #131313;
 }
 
-.info-box img-right{
+.info-box img.right{
       float: right;
       margin-top: 25px;
       height: 40px;
